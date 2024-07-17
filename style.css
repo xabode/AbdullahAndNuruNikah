@@ -601,7 +601,7 @@ body {
             background: #fff;
             padding: 20px;
             border-radius: 5px;
-            text-align: center;
+            text-align: justify;
         }
         #overlay .overlay-button {
             background: rgb(204, 32, 131);
